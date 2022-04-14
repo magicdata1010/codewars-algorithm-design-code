@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Feb 16 16:29:36 2022
 
-@author: 91838
 """
 # TODO: create the User class
 # it must support rank, progress, and the inc_progress(rank) method
